@@ -1,0 +1,4 @@
+Pre-order Regression: y ≈ 0.006648 * ln(x) + -0.055902
+In-order Regression: y ≈ 0.008562 * ln(x) + -0.074306  
+Post-order Regression: y ≈ 0.007054 * ln(x) + -0.058802
+BFS Regression: y ≈ 0.010628 * ln(x) + -0.092159   
